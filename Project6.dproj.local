@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/06/17 11:23:10.000.345,=C:\Users\Fernando Bueno\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>2014/06/17 11:24:25.000.389,=C:\Users\Fernando Bueno\Documents\Embarcadero\Studio\Projects\Unit11.pas</Transaction>
+    <Transaction>2014/06/17 11:41:52.000.780,C:\Users\Fernando Bueno\Documents\Embarcadero\Studio\Projects\Project6.dproj=C:\Users\Fernando Bueno\Documents\Embarcadero\Studio\Projects\Project6.dproj</Transaction>
+    <Transaction>2014/06/17 11:58:40.000.509,C:\Users\Fernando Bueno\Desktop\SQLite+Delphi\Unit10.dfm=C:\Users\Fernando Bueno\Documents\Embarcadero\Studio\Projects\Unit10.dfm</Transaction>
+    <Transaction>2014/06/17 11:58:40.000.509,C:\Users\Fernando Bueno\Desktop\SQLite+Delphi\Unit10.pas=C:\Users\Fernando Bueno\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>2014/06/17 11:59:01.000.670,C:\Users\Fernando Bueno\Desktop\SQLite+Delphi\__history\Project6.dproj=C:\Users\Fernando Bueno\Documents\Embarcadero\Studio\Projects\Project6.dproj</Transaction>
+    <Transaction>2014/06/17 11:59:10.000.729,C:\Users\Fernando Bueno\Desktop\SQLite+Delphi\Project6.dproj=C:\Users\Fernando Bueno\Desktop\SQLite+Delphi\__history\Project6.dproj</Transaction>
+    <Transaction>2014/06/17 12:04:06.000.652,C:\SQLite+Delphi\Unit10.pas=C:\Users\Fernando Bueno\Desktop\SQLite+Delphi\Unit10.pas</Transaction>
+    <Transaction>2014/06/17 12:04:06.000.652,C:\SQLite+Delphi\Unit10.dfm=C:\Users\Fernando Bueno\Desktop\SQLite+Delphi\Unit10.dfm</Transaction>
+    <Transaction>2014/06/17 12:04:23.000.329,C:\SQLite+Delphi\Project6.dproj=C:\Users\Fernando Bueno\Desktop\SQLite+Delphi\Project6.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
